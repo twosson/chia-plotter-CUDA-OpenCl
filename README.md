@@ -1,3 +1,6 @@
+[![code style: achow](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/achow1o1)
+<p><cd><p><a href="https://github.com/achow1o1/ASIC-Bitcoin-privatekey-Miner" rel="nofollow"><img src="https://camo.githubusercontent.com/0a47442b4a3342164618c1838f886fbbf2db735b585a8ba985b320318f0132bc/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f6477796c2f686170692d617574682d6a7774322e7376673f6d61784167653d32353932303030" alt="codecov.io " data-canonical-src="https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000" style="max-width:100%;"></a></p>
+
 # chia-plotter-CUDA-OpenCl
 
 
