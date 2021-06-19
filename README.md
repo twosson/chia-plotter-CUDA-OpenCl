@@ -66,3 +66,11 @@ chia_plot.GPU [-check]
 -l: List cuda enabled devices
 
 -check: Check CPU and GPU kernel vs CPU
+     
+     
+If you have any questions, write an Email:
+
+contact: achow@gmx.com
+
+by 
+achow
